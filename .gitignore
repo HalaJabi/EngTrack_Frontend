@@ -1,0 +1,59 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Build outputs
+build/
+
+# iOS-specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/DerivedData/
+ios/.dart_tool/
+
+# Android-specific
+android/.gradle/
+android/app/proguard-rules.pro
+android/local.properties
+android/app/build/
+
+# Web-specific
+web/.dart_tool/
+web/.firebase/
+
+# macOS-specific
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+macos/.dart_tool/
+macos/Flutter/ephemeral/
+
+# Windows-specific
+windows/flutter/ephemeral/
+
+# Linux-specific
+linux/flutter/ephemeral/
+
+# Coverage
+coverage/
+
+# JetBrains IDEs (e.g., IntelliJ, Android Studio)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Other
+*.log
+*.DS_Store
+*.tmp
+*.swp
+lib/constants/firebase_api.dart
