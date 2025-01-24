@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185349118973",
+    "project_id": "final-eng-track",
+    "storage_bucket": "final-eng-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185349118973:android:d06f1866cb3e5df95d5794",
+        "android_client_info": {
+          "package_name": "com.example.front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13ZQFdHLTQD7B9BES_25cHXpoULlFL3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

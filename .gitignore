@@ -56,4 +56,4 @@ coverage/
 *.DS_Store
 *.tmp
 *.swp
-lib/constants/firebase_api.dart
+*.firebase_api
