@@ -16,8 +16,8 @@ Includes tools for assigning, categorizing, and tracking tasks using a Gantt cha
 Tasks are organized with statuses such as To-Do, In Progress, Under Review, and Done.
 Allows users to set start and end dates for each task to ensure timely completion.
 Real-time tracking and notifications ensure users stay on schedule and organized.
-##User Features
--Engineers:
+## User Features
+- Engineers:
 
 Create and update profiles with skills, CVs, and other professional details.
 Search and bookmark job listings based on categories (Mobile, Frontend, Backend, AI).
@@ -26,16 +26,16 @@ Communicate with companies using a built-in chat system:
 Send messages directly to employers.
 Share images and relevant files to support applications or inquiries.
 Engage in real-time conversations to enhance collaboration and clarity during the hiring process.
--Companies:
+- Companies:
 
 Post job listings with detailed descriptions, requirements, and salary ranges.
 Create dynamic quizzes to evaluate candidates’ skills.
 Review applicants' compatibility scores and quiz results, reducing the time spent evaluating unsuitable candidates.
 Assign tasks, manage projects, and communicate with engineers via the chat system for smooth project coordination.
 
-#Mobile demo:
+# Mobile demo:
 [![MobileDemo](https://img.youtube.com/vi/ec_hRAffU50/0.jpg)](https://www.youtube.com/watch?v=ec_hRAffU50)
 
 
-#web demo:
+# web demo:
 
